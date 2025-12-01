@@ -1,4 +1,3 @@
-# NutriLens AI
 
 An AI-powered nutrition tracking app that uses computer vision to analyze food and provide detailed nutritional information.
 
