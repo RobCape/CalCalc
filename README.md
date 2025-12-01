@@ -1,4 +1,4 @@
-# NutriLens AI - CalCalc
+# - CalCalc
 
 An AI-powered nutrition tracking mobile app that uses computer vision to automatically recognize food and provide detailed nutritional information.
 
